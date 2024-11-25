@@ -38,7 +38,7 @@ Clone the Repository
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Omniplex-ai/omniplex.git
+git clone https://github.com/SaniyaPathre/omniplex-UI_Saniya.git
 Navigate into the project directory:
 bash
 Copy code
