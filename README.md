@@ -130,12 +130,4 @@ Visit `http://localhost:3000` in your browser to access the application.
   - Updated the `package.json` to specify compatible versions.
   - Used the `--legacy-peer-deps` flag during installation.
 
-## Acknowledgments
-- **Firebase:** For providing powerful backend services including Authentication, Firestore, and Storage.
-- **RapidAPI:** For providing a wide range of public APIs to enhance the project.
-- **Tailwind CSS:** For simplifying the styling process with utility-first CSS.
-- **ChatGPT:** For code optimization and problem-solving assistance.
 
----
-
-This README file now clearly lays out your project’s details in a neat format. You can customize it further based on your needs!
