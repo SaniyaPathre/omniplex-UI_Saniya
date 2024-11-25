@@ -1,7 +1,3 @@
-Here’s a neat, formatted version of your **README** for the Omniplex project:
-
----
-
 # Omniplex Project
 
 This repository contains the Omniplex project with enhanced features, including UI improvements, API integration, and deployment readiness.
